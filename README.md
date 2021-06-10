@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+## App Screenshots
+
+<img src="https://raw.githubusercontent.com/MovingMelody/Firebase-ChatOfBytes/main/screenshots/1.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/MovingMelody/Firebase-ChatOfBytes/main/screenshots/2.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/MovingMelody/Firebase-ChatOfBytes/main/screenshots/3.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/MovingMelody/Firebase-ChatOfBytes/main/screenshots/4.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/MovingMelody/Firebase-ChatOfBytes/main/screenshots/5.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/MovingMelody/Firebase-ChatOfBytes/main/screenshots/6.jpg" alt="drawing" width="300"/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
